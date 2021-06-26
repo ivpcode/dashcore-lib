@@ -24,8 +24,8 @@ module.exports = {
   ],
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'dashcore-lib.min.js',
-    library: 'dashcore',
+    filename: 'lkscore-lib.min.js',
+    library: 'lkscore',
     libraryTarget: 'umd',
   },
   optimization: {
