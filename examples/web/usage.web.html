@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <title>Title</title>
-    <!--    <script src="https://unpkg.com/@ivpcode/dashcore-lib"></script>-->
-    <script src="../../dist/dashcore-lib.min.js"></script>
+    <!--    <script src="https://unpkg.com/@ivpcode/lkscore-lib"></script>-->
+    <script src="../../dist/lkscore-lib.min.js"></script>
     <script>
-      const { PrivateKey } = dashcore;
+      const { PrivateKey } = lkscore;
       const privateKey = new PrivateKey();
       const address = privateKey.toAddress().toString();
       alert(`New private key generated ${privateKey.toString()}`);
