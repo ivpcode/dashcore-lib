@@ -116,7 +116,7 @@ You can also run just the Node.js tests with `npm run test:node`, just the brows
 - [BlockHeader](docs/usage/blockheader.md)
 - [Hierarchically-derived Private Key](docs/usage/hdprivatekey.md)
 - [Hierarchically-derived Public Key](docs/usage/hdpublickey.md)
-- [Message](docs/usage/message.md)
+- [Message](docs/usage/message.md) 
 - [Mnemonic](docs/usage/mnemonic.md)
 - [Opcode](docs/usage/opcode.md)
 - [PrivateKey](docs/usage/privatekey.md)
