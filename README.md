@@ -1,3 +1,9 @@
+# LKSCore Library
+
+This is a porting of the javascript dashcore-lib to LKSCoin. Work is in progress, but you can find a working build of the library (lkscore-lib.min.js) inside the dist direcotry.
+
+
+
 # Dashcore Library
 
 [![NPM Version](https://img.shields.io/npm/v/@dashevo/dashcore-lib)](https://www.npmjs.com/package/@dashevo/dashcore-lib)
